@@ -16,6 +16,8 @@ Tested Devices:
   * Rival 600
   * Apex 7 TKL
 
+Tested On: macOS
+
 Usage:
 
   commonsense [device_type] [event_args] EVENT [modifiers]
